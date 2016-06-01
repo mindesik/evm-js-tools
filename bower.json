@@ -1,0 +1,21 @@
+{
+  "name": "js-tools",
+  "description": "Various javascript helper functions",
+  "main": "tools.js",
+  "keywords": [
+    "tools",
+    "helpers"
+  ],
+  "authors": [
+    "Eugene Min <e.min@milax.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
