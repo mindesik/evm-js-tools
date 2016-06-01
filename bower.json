@@ -1,9 +1,8 @@
 {
-    "name": "misterpaladin-js-tools",
+    "name": "evm-js-tools",
     "description": "Various javascript helper functions",
     "main": "tools.js",
     "keywords": [
-        "misterpaladin",
         "tools",
         "helpers"
     ],
