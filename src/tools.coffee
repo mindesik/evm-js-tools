@@ -1,2 +1,3 @@
+# Do console.log for each parameter
 @log = () ->
-    console.log.apply(this, arguments)
+    console.log arg for arg in arguments
