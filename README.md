@@ -1,6 +1,4 @@
-# js tools
-
-## Functions
+## Helper functions
 
 ### log()
 
