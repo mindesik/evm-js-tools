@@ -21,7 +21,7 @@ $ node node_modules/.bin/gulp
 Run http-server
 
 ```
-$ node_modules/.bin/http-server
+$ node node_modules/.bin/http-server
 ```
 
 Visit index.html to test scripts in console
