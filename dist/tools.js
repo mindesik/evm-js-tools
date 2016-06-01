@@ -1,3 +1,3 @@
 this.log = function() {
-  return console.log(arguments);
+  return console.log.apply(this, arguments);
 };

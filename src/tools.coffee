@@ -1,2 +1,2 @@
 @log = () ->
-    console.log(arguments)
+    console.log.apply(this, arguments)
