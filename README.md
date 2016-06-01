@@ -1,4 +1,10 @@
-## Helper functions
+## Installation
+
+```
+$ bower install evm-js-tools
+```
+
+## Functions list
 
 ### log()
 
