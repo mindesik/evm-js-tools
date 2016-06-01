@@ -24,6 +24,8 @@ Run http-server
 $ node_modules/.bin/http-server
 ```
 
+Visit index.html to test scripts in console
+
 ## Functions list
 
 ### log([arguments])
