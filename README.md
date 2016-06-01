@@ -4,6 +4,26 @@
 $ bower install evm-js-tools
 ```
 
+## Development and testing
+
+Install dependencies
+
+```
+$ npm install
+```
+
+Run gulp
+
+```
+$ node node_modules/.bin/gulp
+```
+
+Run http-server
+
+```
+$ node_modules/.bin/http-server
+```
+
 ## Functions list
 
 ### log([arguments])
