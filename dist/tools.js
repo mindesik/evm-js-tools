@@ -1,3 +1,3 @@
-this.log = function(param) {
-  return console.log(param);
+this.log = function() {
+  return console.log(arguments);
 };

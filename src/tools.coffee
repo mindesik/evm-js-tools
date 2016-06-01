@@ -1,2 +1,2 @@
-@log = (param) ->
-    console.log(param)
+@log = () ->
+    console.log(arguments)
