@@ -4,5 +4,5 @@ this.log = function() {
     arg = arguments[i];
     console.log(arg);
   }
-  return true;
+  return null;
 };
