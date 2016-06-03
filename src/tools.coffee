@@ -17,7 +17,4 @@ String.prototype.replaceAll = (needle, replace) ->
 
 # Finish string with given character
 String.prototype.finish = (finish) ->
-    if @.endsWith(finish)
-        return @.toString()
-    else
-        return @ + finish
+    return if @.endsWith(finish) then @.toString() else @ + finish
