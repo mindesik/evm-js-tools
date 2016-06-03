@@ -26,12 +26,14 @@ $ node node_modules/.bin/http-server
 
 Visit index.html to test scripts in console
 
-## Functions list
+## Helper functions
 
-### log([arguments])
+#### log([arguments])
 
 Alias to `console.log`
 
-### replace(haystack, needle, replace)
+## Extended classes
 
-Replace all needles in haystack by replace
+#### String.prototype.replaceAll(needle, replace)
+
+Replace all needles in string by replace
