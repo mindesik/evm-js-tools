@@ -28,16 +28,22 @@ Visit index.html to test scripts in console
 
 ## Helper functions
 
-```javascript
-log([arguments])
-```
+Log into console, alias to `console.log`
 
-Alias to `console.log`
+```javascript
+log([arguments]);
+```
 
 ## Extended classes
 
+Finish string with given string
+
 ```javascript
-String.prototype.replaceAll(needle, replace)
+String.prototype.finish(finish);
 ```
 
 Replace all needles in string by replace
+
+```javascript
+String.prototype.replaceAll(needle, replace);
+```
