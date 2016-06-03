@@ -14,3 +14,10 @@
 # Replace all found 'needles' by 'replace'
 String.prototype.replaceAll = (needle, replace) ->
     return @.replace(new RegExp(needle, 'g'), replace)
+
+# Finish string with given character
+String.prototype.finish = (finish) ->
+    if @.endsWith(finish)
+        return @.toString()
+    else
+        return @ + finish
