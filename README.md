@@ -28,12 +28,16 @@ Visit index.html to test scripts in console
 
 ## Helper functions
 
-#### log([arguments])
+```javascript
+log([arguments])
+```
 
 Alias to `console.log`
 
 ## Extended classes
 
-#### String.prototype.replaceAll(needle, replace)
+```javascript
+String.prototype.replaceAll(needle, replace)
+```
 
 Replace all needles in string by replace
