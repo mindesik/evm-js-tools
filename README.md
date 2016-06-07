@@ -1,6 +1,6 @@
 # evm-js-tools
 
-[![Bower](https://img.shields.io/bower/v/evm-js-tools.svg)](https://github.com/misterpaladin/evm-js-tools) [![license](https://img.shields.io/github/license/misterpaladin/evm-js-tools.svg)]()
+[![Bower](https://img.shields.io/bower/v/evm-js-tools.svg)](https://github.com/misterpaladin/evm-js-tools) [![license](https://img.shields.io/github/license/misterpaladin/evm-js-tools.svg)](../master/LICENSE.md)
 
 ## Installation
 
